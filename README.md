@@ -1,3 +1,4 @@
+innovative AI-Attendance-System
 # AI-Attendance-System
 A smart attendance management system powered by Artificial Intelligence and Computer Vision that automatically detects and recognizes students using facial recognition technology.
 This project helps reduce manual attendance work by providing a fast, accurate, and real-time attendance tracking solution for schools, colleges, and organizations.
